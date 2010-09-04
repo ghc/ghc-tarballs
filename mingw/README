@@ -2,3 +2,11 @@
 These files were downloaded from:
 
     http://sourceforge.net/projects/mingw/files/
+
+In particular:
+
+    MinGW/BaseSystem/GNU-Binutils
+    MinGW/BaseSystem/GCC
+    MinGW/BaseSystem/RuntimeLibrary/Win32-API
+    MinGW/BaseSystem/RuntimeLibrary/MinGW-RT
+
